@@ -1,1 +1,2 @@
-# hadoop-ha
+# CNI-docker installation for centos.
+
